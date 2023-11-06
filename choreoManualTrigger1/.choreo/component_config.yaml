@@ -1,0 +1,8 @@
+apiVersion: core.choreo.dev/v1alpha1
+kind: ComponentConfig
+metadata:
+  name: choreoManualTrigger
+  projectName: choreoProject1
+  annotations:
+    componentType: manual-task
+spec: {}
